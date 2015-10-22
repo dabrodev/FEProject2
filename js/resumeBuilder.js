@@ -34,6 +34,13 @@ var education = {
       "url": "http://www.onemonth.com"
     },
     {
+      "title": "Grunt",
+      "school": "Lynda.com",
+      "dates": "2015",
+      "url": "http://www.lynda.com"
+    },
+
+    {
       "title": "Complete Web Developer Course",
       "school": "Udemy",
       "dates": "2014",
