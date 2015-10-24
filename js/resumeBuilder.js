@@ -39,7 +39,12 @@ var education = {
       "dates": "2015",
       "url": "http://www.lynda.com"
     },
-
+    {
+      "title": "Game Development",
+      "school": "Treehouse",
+      "dates": "2015",
+      "url": "http://www.teamtreehouse.com"
+    },
     {
       "title": "Complete Web Developer Course",
       "school": "Udemy",
