@@ -40,7 +40,7 @@ var education = {
       "url": "http://www.lynda.com"
     },
     {
-      "title": "Game Development",
+      "title": "How to Make a Video Game",
       "school": "Treehouse",
       "dates": "2015",
       "url": "http://www.teamtreehouse.com"
